@@ -10,3 +10,11 @@ sum= num1+num2;
 printf("%d+%d=%d", num1,num2,sum);
 return 0;
 }
+<<<<<<<<< HEAD
+
+int addfunc(int a, int b)
+{
+	int c = a+b;
+	return c;
+}
+===============
